@@ -1,5 +1,5 @@
 # cat2
-
+git clone https://github.com/minich268/cat 
 ## Project setup
 ```
 npm install
